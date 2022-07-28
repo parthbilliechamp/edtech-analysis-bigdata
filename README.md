@@ -8,17 +8,18 @@ The digital media team at udemy launches various course campaigns to market abou
 
 ## Dataset Schema
 
-<img width="449" alt="Screenshot 2022-07-28 at 12 53 26 PM" src="https://user-images.githubusercontent.com/25679271/181445938-8aa978eb-fa01-462d-a928-284722fe8a6f.png">
+<img width="400" alt="Screenshot 2022-07-28 at 12 52 07 PM" src="https://user-images.githubusercontent.com/25679271/181449093-1dd6f649-e91c-4b4d-867c-9cfffdf01615.png">
 
-<img width="480" alt="Screenshot 2022-07-28 at 12 52 07 PM" src="https://user-images.githubusercontent.com/25679271/181446081-3b9c1996-21a4-4cbc-9a51-c778dab17663.png">
+<img width="400" alt="Screenshot 2022-07-28 at 12 53 26 PM" src="https://user-images.githubusercontent.com/25679271/181449108-adfc670b-a8a6-462f-a346-c25b3f635cd6.png">
 
-<img width="374" alt="Screenshot 2022-07-28 at 12 56 20 PM" src="https://user-images.githubusercontent.com/25679271/181446787-aa0cd72f-1704-4dea-b2da-cc1be47dc0c0.png">
+<img width="400" alt="Screenshot 2022-07-28 at 12 55 34 PM" src="https://user-images.githubusercontent.com/25679271/181449124-ebd086f8-ba72-44ad-b27f-e75bee4eb458.png">
 
-<img width="393" alt="Screenshot 2022-07-28 at 12 55 34 PM" src="https://user-images.githubusercontent.com/25679271/181446800-5bf8c29d-dc13-4d16-a73a-d5325d81818b.png">
+<img width="400" alt="Screenshot 2022-07-28 at 12 56 20 PM" src="https://user-images.githubusercontent.com/25679271/181449137-3d857583-f426-4781-a89c-3e50c20148d4.png">
 
-<img width="449" alt="Screenshot 2022-07-28 at 12 53 26 PM" src="https://user-images.githubusercontent.com/25679271/181446812-443e4431-7347-46c2-bb48-c74d2183119a.png">
+<img width="400" alt="Screenshot 2022-07-28 at 12 56 46 PM" src="https://user-images.githubusercontent.com/25679271/181449150-1f9153b3-4895-4360-b141-2427d25d6671.png">
 
-<img width="480" alt="Screenshot 2022-07-28 at 12 52 07 PM" src="https://user-images.githubusercontent.com/25679271/181446826-e8f3b070-21d4-4b2d-88c2-0575ac33eea6.png">
+<img width="400" alt="Screenshot 2022-07-28 at 12 57 49 PM" src="https://user-images.githubusercontent.com/25679271/181449168-cdb1fab2-35ee-4d11-a71e-140fa75724c0.png">
+
 
 ## Project Architecture
 
@@ -26,8 +27,7 @@ The digital media team at udemy launches various course campaigns to market abou
 
 ## Data Model
 
-<img width="480" alt="Screenshot 2022-07-28 at 12 52 07 PM" src="https://user-images.githubusercontent.com/25679271/181447886-80fe0035-5b5c-48b2-abe0-5a0d40bd5e0a.png">
-
+<img width="901" alt="Screenshot 2022-07-28 at 1 01 28 PM" src="https://user-images.githubusercontent.com/25679271/181448902-0779cc41-1057-4f14-aeab-1a3896da2025.png">
 
 
 
