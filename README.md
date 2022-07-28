@@ -29,5 +29,10 @@ The digital media team at udemy launches various course campaigns to market abou
 
 <img width="901" alt="Screenshot 2022-07-28 at 1 01 28 PM" src="https://user-images.githubusercontent.com/25679271/181448902-0779cc41-1057-4f14-aeab-1a3896da2025.png">
 
+## Sample Processing Output Data
+
+Facts and reporting tables sample data is attached in the output folder
+
+
 
 
